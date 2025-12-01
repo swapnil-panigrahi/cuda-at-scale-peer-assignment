@@ -1,0 +1,6 @@
+Processing: image_1.jpg
+Processing: image_2.jpg
+Processing: image_3.jpg
+Processing: image_4.jpg
+Processing: image_5.jpg
+Batch processing complete.
